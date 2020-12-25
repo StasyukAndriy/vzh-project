@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 916f13ee03a2cddd9cae514044c8074d8fe44825 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607616429 +0200	clone: from https://gitlab.com/d1ma.dyachuk.44/karpatu.git
+916f13ee03a2cddd9cae514044c8074d8fe44825 fe76876016f0612a22113c65dcd9dd309b4da53a SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607616627 +0200	checkout: moving from master to new-branch
+fe76876016f0612a22113c65dcd9dd309b4da53a a35b74f73307ee4e077cfa8ab11a0305e2a2f265 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607619358 +0200	commit: Стилізував футер і реєстрацію
+a35b74f73307ee4e077cfa8ab11a0305e2a2f265 5ba3c6e09b0ea2bf8d9a89e41f5cad1f4ccc3207 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607622794 +0200	commit: Стилізував футер та реєстрацію
+5ba3c6e09b0ea2bf8d9a89e41f5cad1f4ccc3207 1d53be8defee313db5a5bbaf5b4c70a2b7d6f047 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607623030 +0200	commit: Стилізував футер та реєстрацію
+1d53be8defee313db5a5bbaf5b4c70a2b7d6f047 915673cc71e88cd4169ec00a454569a9c220fb28 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607623327 +0200	commit: Стилізував футер та реєстрацію
+915673cc71e88cd4169ec00a454569a9c220fb28 fed9b78c9aa34c6cca7081e595232c3d83583c84 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607883454 +0200	commit: Створив портфоліо
+fed9b78c9aa34c6cca7081e595232c3d83583c84 d4c319c677d9b4e76da96683cbc6d19bff335867 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1607883500 +0200	commit: Створив портфоліо
+d4c319c677d9b4e76da96683cbc6d19bff335867 d4c319c677d9b4e76da96683cbc6d19bff335867 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1608307700 +0200	reset: moving to HEAD
+d4c319c677d9b4e76da96683cbc6d19bff335867 7a60cd8cac9b875d707f67632bf5d672eba80f59 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1608307706 +0200	merge origin/new-branch: Fast-forward
+7a60cd8cac9b875d707f67632bf5d672eba80f59 4fe1fa3262cc8ef46fa4fe06f25af25d9ad6bf35 SofiaDL <67660528+SofiaDL@users.noreply.github.com> 1608317590 +0200	commit: Добавили слайдер. Та зробили js аніманицію

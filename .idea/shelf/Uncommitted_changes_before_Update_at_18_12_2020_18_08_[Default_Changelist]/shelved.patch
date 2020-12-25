@@ -1,0 +1,73 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"11213d4b-7f95-4332-8d51-822aae750c62\" name=\"Default Changelist\" comment=\"Стилізував футер та реєстрацію\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"WARN_ABOUT_DETACHED_HEAD\" value=\"false\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1lRSYLVGV9GmSy80Sox98V7i0nY\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\OpenServer\\domains\\karpatu\" />\r\n      <recent name=\"D:\\OpenServer\\domains\\karpatu\\js\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"11213d4b-7f95-4332-8d51-822aae750c62\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1607558456682</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1607558456682</updated>\r\n      <workItem from=\"1607558458055\" duration=\"5892000\" />\r\n      <workItem from=\"1607622630324\" duration=\"931000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"добавив проект\">\r\n      <created>1607558589547</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607558589547</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"добавив проект\">\r\n      <created>1607558733037</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607558733037</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"добавив проект\">\r\n      <created>1607559266979</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607559266979</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"добавив проект\">\r\n      <created>1607559357890</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607559357890</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"добавив проект\">\r\n      <created>1607608197768</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607608197768</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"добавив проект\">\r\n      <created>1607608367240</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607608367241</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"добавив проект\">\r\n      <created>1607608501074</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607608501074</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Стилізував футер та реєстрацію\">\r\n      <created>1607622795474</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607622795475</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Стилізував футер та реєстрацію\">\r\n      <created>1607623032136</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607623032136</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Стилізував футер та реєстрацію\">\r\n      <created>1607623329314</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607623329314</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"добавив проект\" />\r\n    <MESSAGE value=\"Стилізував футер та реєстрацію\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Стилізував футер та реєстрацію\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,7 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="11213d4b-7f95-4332-8d51-822aae750c62" name="Default Changelist" comment="Стилізував футер та реєстрацію" />
++    <list default="true" id="11213d4b-7f95-4332-8d51-822aae750c62" name="Default Changelist" comment="Створив портфоліо">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/db_conect.php" beforeDir="false" afterPath="$PROJECT_DIR$/db_conect.php" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/image/portfolio/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/portfolio/p1.jpg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.php" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -49,6 +55,9 @@
+       <updated>1607558456682</updated>
+       <workItem from="1607558458055" duration="5892000" />
+       <workItem from="1607622630324" duration="931000" />
++      <workItem from="1607883378662" duration="731000" />
++      <workItem from="1608127986471" duration="1191000" />
++      <workItem from="1608215413047" duration="317000" />
+     </task>
+     <task id="LOCAL-00001" summary="добавив проект">
+       <created>1607558589547</created>
+@@ -120,7 +129,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1607623329314</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="Створив портфоліо">
++      <created>1607883454772</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1607883454772</updated>
++    </task>
++    <task id="LOCAL-00012" summary="Створив портфоліо">
++      <created>1607883501815</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1607883501815</updated>
++    </task>
++    <option name="localTasksCounter" value="13" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -136,10 +159,12 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="добавив проект" />
+     <MESSAGE value="Стилізував футер та реєстрацію" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Стилізував футер та реєстрацію" />
++    <MESSAGE value="Створив портфоліо" />
++    <option name="LAST_COMMIT_MESSAGE" value="Створив портфоліо" />
+   </component>
+ </project>
+\ No newline at end of file
