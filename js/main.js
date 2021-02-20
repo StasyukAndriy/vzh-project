@@ -13,6 +13,20 @@
    freeMode: true,
    watchSlidesVisibility: true,
    watchSlidesProgress: true,
+   breakpoints: {
+    320: {
+      slidesPerView: 1
+    },
+    380: {
+      slidesPerView: 2
+    },
+    640: {
+        slidesPerView: 3
+    },
+    1000: {
+        slidesPerView: 4
+    }
+  }
   });
   var galleryTop = new Swiper('.gallery-top', {
    spaceBetween: 10,

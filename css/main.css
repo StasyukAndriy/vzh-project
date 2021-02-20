@@ -2,6 +2,11 @@ body{
    margin: 0;
    font-family: 'Montserrat',sans-serif;
 }
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
 .container{
 margin: 0;
 max-width: 1110px;
@@ -9,14 +14,15 @@ margin-left: auto;
 margin-right: auto;
 }
 .header{
- /*position: relative; /*position  задає тип способу позиціонування , який використовується для елемента*/
+ position: relative; /* !*position  задає тип способу позиціонування , який використовується для елемента*!*!*!*!*/
  display:flex; /* display задає відображення на сторінці ,вказує тип блока, який використовуться для HTML-елемента. Flex робить щоб 
  елементи блоку були гнучкими (щоб можна було їх розташовувати вертикально чи горизонтально)  а не просто інлайновими чи блоковими */
  flex-direction: column;/* визначає головну вісь по якій буде вирівнювання 
  column- головна вісь y вертикально,  
  по замовчуванні головна вісь x горизонтальна*/
  justify-content: center; /* вирівнювання елементів в блоці  по головній осі*/
- align-items: center; /*вирівнювання елементів в блоці по перпендикулярній осі до головної осі*/  
+ align-items: center; /*вирівнювання елементів в блоці по перпендикулярній осі до головної осі*/
+ /*z-index: 3;*/
  
     width: 100%;
     height: 100vh;
@@ -25,7 +31,7 @@ margin-right: auto;
     background-size: cover;
     background-position: center;
     margin: 0;
-    /* transition-property: transform;
+   /* transition-property: transform;
     transition-duration: 1s; */
 }
 /* .header{
@@ -39,7 +45,15 @@ margin-right: auto;
    right: 60px;
    top: 30px;
   /* background-color: deeppink; */
+.video_media{
+   width: 100%;
+   height: auto;
+   position: absolute;
+   top: 0;
+   left: 0;
+   z-index: 1;
 
+}
 .header-title{
    font-weight: bold;
    font-size: 56px;
@@ -48,7 +62,11 @@ margin-right: auto;
    text-align: center;  
    color: #FFFFFF;
    margin: 0; 
-   margin-bottom: 25px;   
+   margin-bottom: 25px;
+   z-index: 2;
+
+
+
 }
 .header-subtitle{
    font-weight: bold;
@@ -59,14 +77,17 @@ margin-right: auto;
    letter-spacing: 0.2em;
    text-transform: uppercase;   
    color: #FFFFFF;
+   z-index: 2;
 }
  
  .header-viber{ 
      display: flex;
+    z-index: 2;
 }
 .viber-image{
    width: 30px;
    height: 30px;
+
 }
 
 .viber-name{
@@ -82,22 +103,28 @@ margin-right: auto;
    font-size: 33px;
    font-weight: bold;
    padding: 5px 10px;
+   z-index: 2;
+}
+.header-button{
+   z-index: 2;
 }
 .register-href:hover{
    cursor: pointer;
    text-decoration: none;
    transform: scale(1.1);
    transition: transform .2s linear;
+
 }
 .header-arrow{
 position: absolute;
 width: 48px;
 height: 48px;
+   z-index: 2;
 /* transform:translate(-50%,0); */
 /* transform для повороту і масштабування елементів
-З translate можно вырівнювати елементи по вертикалі. 
+З translate можно вырівнювати елементи по вертикалі.
 Але Переважно це робиться абсолютним позиціонуванням
-або заданням висоти стрічки 
+або заданням висоти стрічки
 Alt+Z перенос тексту з однієї стрічки в кілька  стрічок */
 bottom: 30px;
 }
@@ -212,7 +239,7 @@ color: #5E3693;
 }
 .register{
    position: relative;
-   width: 300px;
+   width: 370px;
    text-align: center;
    margin: auto;
    margin-top: 160px;
@@ -335,9 +362,24 @@ transition-property: transform;
    z-index: 11;
    color: white;
 }
+.data {
+   display: flex;
+   justify-content: space-between;
+}
+.data input{
+   border-radius: 5px;
+   padding: 5px;
+}
 .form-group label{
    color: white;
 }
+.map {
+   margin-bottom: 20px; 
+   display: flex;
+   justify-content: center;
+}
+
+
 @keyframes cardAnimationLeft {
    from{
       transform: translateX(-200%);
@@ -354,8 +396,31 @@ transition-property: transform;
       transform: translateX(0);
    }
 }
+@media(max-width:1024px) {
+   .gallery-top img {
+      height: 500px;
+   }
+}
+@media(max-width: 770px){
+   .gallery-top img {
+      height: 340px;
+   }
+   .porfolio-cards-wrapper{
+     display: flex;
+     justify-content: center;
+   }
+   .footer-copyright-name{
+      padding-left: 40px;
+   }
+   .vzh-name{
+    margin-left: 50px;
+   }
 
+}
 @media(max-width:567px){
+   .gallery-top img {
+      height: 240px;
+   }
    .footer-links ,.footer-info{
       margin-bottom: 35px;
    }
@@ -417,6 +482,18 @@ transition-property: transform;
    }
 }
 
+@media(max-width:400px){
+   .gallery-thumbs{
+      display: none;
+   }
+   .portfolio-title{
+      font-size: 30px;
+   }
+   .gallery-top img {
+      height: 200px;
+   }
+}
+
 /*INFO PAGE START*/
 .info-title{
    margin: 80px 40px;
@@ -426,22 +503,3 @@ transition-property: transform;
 }
 
 /*INFO PAGE END*/
-
-
-
-
-
-
-@media(max-width: 770px){
-   .porfolio-cards-wrapper{
-     display: flex;
-     justify-content: center;
-   }
-   .footer-copyright-name{
-      padding-left: 40px;
-   }
-   .vzh-name{
-    margin-left: 50px;
-   }
-
-}
